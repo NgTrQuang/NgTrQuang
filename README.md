@@ -1,9 +1,9 @@
 
 ## Hi there 👋
 
-
+<!--
 **NgTrQuang/NgTrQuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at home as a freelancer
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ngtrquangit@gmail.com
 - 😄 Pronouns: Ethan Funny :)))
 - ⚡ Fun fact: I don't like onion and eggplant 😄
--->
-<!--
+
+
